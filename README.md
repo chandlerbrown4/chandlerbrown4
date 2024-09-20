@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Chandler Brown
-
-![Profile Banner](https://your-banner-image-url.com/banner.png)
   
 📧 [chandler@hblabs.net](mailto:chandler@hblabs.net)  
 📞 +1 (704) 776-1823  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chandlerbrown)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chandlerbrownnc)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chandler@hblabs.net)
 
 ---
@@ -21,7 +19,7 @@ I'm a passionate **Software Engineer** and **Freelance Developer** with a strong
 - **Frontend:** React, Angular, HTML5, CSS3, JavaScript
 - **Backend:** Firebase, Python
 - **Mobile Development:** React Native
-- **Others:** WordPress
+- **Others:** Java, Python, WordPress
 
 ### **Tools & Technologies**
 - **DevOps:** Vercel, Git, GitHub
