@@ -1,14 +1,121 @@
-# 💫 About Me:
-🔭 I’m currently working on api integrations and customized advanced reporting for small businesses.<br>👯 I’m looking to collaborate on just about anything! Looking to broaden my scope.<br>🤝 I’m looking for help with building scalable full stack applications.<br>🌱 I’m currently learning penetration testing, looking to acquire my OSCP from Offensive Security.<br>💬 Ask me about Bar Scout!
+# 👋 Hi, I'm Chandler Brown
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandlerbrown4) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Profile Banner](https://your-banner-image-url.com/banner.png)
+  
+📧 [chandler@hblabs.net](mailto:chandler@hblabs.net)  
+📞 +1 (704) 776-1823  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chandlerbrown)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chandler@hblabs.net)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chandlerbrown4&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** and **Freelance Developer** with a strong background in mobile and web development, data automation, and SEO. Currently, I'm pursuing my **OSCP** certification and developing an advanced inventory management system integrated with Clover POS and comprehensive sales analytics.
+
+---
+
+## 🛠️ Skills
+
+### **Languages & Frameworks**
+- **Frontend:** React, Angular, HTML5, CSS3, JavaScript
+- **Backend:** Firebase, Python
+- **Mobile Development:** React Native
+- **Others:** WordPress
+
+### **Tools & Technologies**
+- **DevOps:** Vercel, Git, GitHub
+- **APIs:** Google Sheets API, OCR Technologies
+- **SEO Tools:** Google Analytics, Google Search Console, Ahrefs
+- **Machine Learning:** Data Extraction & Automation
+
+### **Areas of Expertise**
+- Cross-Platform App Development
+- Web Development & Design
+- Data Automation & Analysis
+- SEO & Digital Marketing
+
+---
+
+## 📂 Projects
+
+### [**BarScout**](https://github.com/yourusername/BarScout)
+- **Role:** Mobile App Developer
+- **Tech Stack:** React, Firebase, Vercel
+- Engineered a sophisticated cross-platform application ensuring seamless performance across desktop and mobile.
+- Successfully launched BarScout on both Google Play Store and Apple App Store.
+
+### [**Custom Invoice System**](https://github.com/yourusername/Custom-Invoice-System)
+- **Role:** Software Engineer at Astro Investment Group
+- Designed a system leveraging OCR for data extraction from various invoice formats.
+- Integrated Python automation with Google Sheets API for financial data consolidation using machine learning algorithms to enhance accuracy.
+
+### [**Rogue Solar Website**](https://github.com/yourusername/RogueSolar-Website)
+- **Role:** Web Developer & SEO Specialist
+- Developed and optimized the company website, resulting in a **1600% increase in user engagement**.
+- Implemented responsive design and improved site speed, enhancing overall user experience.
+
+### [**Inventory Management System**](https://github.com/yourusername/Inventory-Management-System)
+- **Role:** Lead Developer
+- Building an inventory management system that auto-connects to Clover POS with a comprehensive frontend showcasing in-depth sales analytics.
+
+---
+
+## 💼 Experience
+
+### **H&B Labs** | Boone, NC
+**Freelance Developer**  
+*03/2024 - Present*
+- Developed and deployed cross-platform applications ensuring high performance and accessibility.
+
+### **Astro Investment Group**
+**Software Engineer**
+- Implemented automated systems for invoice processing and data management using advanced technologies.
+
+### **Rogue Solar**
+**Web Developer & SEO Specialist**
+- Enhanced website functionality and visibility, significantly boosting user engagement and search engine rankings.
+
+### **Hunger and Health Coalition** | Boone, NC
+**Intern**  
+*12/2023 - 06/2024*
+- Spearheaded the development of a user portal, improving service accessibility and user engagement through a dynamic interface built with Angular.
+
+---
+
+## 🎓 Education
+
+**Appalachian State University** | Boone, NC  
+**Bachelor of Science in Computer Science**  
+*Graduated: May 2024*
+
+**Certifications:**
+- Currently pursuing **OSCP (Offensive Security Certified Professional)**
+
+---
+
+## 📫 Get in Touch
+
+I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
+
+- **Email:** [chandler@hblabs.net](mailto:chandler@hblabs.net)
+- **Phone:** +1 (704) 776-1823
+- **LinkedIn:** [linkedin.com/in/chandlerbrown](https://www.linkedin.com/in/chandlerbrown)
+
+---
+
+## 📈 GitHub Stats
+
+![Chandler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Cross-Platform Apps with React Native](https://yourblog.com/post1)
+- [Enhancing OCR Accuracy with Machine Learning](https://yourblog.com/post2)
+- [SEO Strategies for Modern Web Development](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
